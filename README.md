@@ -9,7 +9,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <https://i.gifer.com/ZNec.gif">&nbsp;***About me***
+## <https://i.gifer.com/9kA5.gif">&nbsp;***About me***
 
 I am a first semester statistics student, a. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
