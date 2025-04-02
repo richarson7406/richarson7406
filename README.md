@@ -1,7 +1,7 @@
 ## El èxito es la suma de pequeños esfuerzos repetidos dia tras dias  👋
 
  
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://i.gifer.com/5TMy.gif)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers]()<br/>
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
