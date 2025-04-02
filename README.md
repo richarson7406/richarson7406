@@ -1,4 +1,4 @@
-## Hi there 👋
+## El èxito es la suma de pequeños esfuerzos repetidos dia tras dias  👋
 
 <!--
 **richarson7406/richarson7406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
