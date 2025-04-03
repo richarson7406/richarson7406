@@ -33,7 +33,7 @@ I am a first semester statistics student and I like everything that has to do wi
   
 </div>
 
-![My github status](https://komarev.com/ghpvc/?username=richarson7406&label=Profile%20views&color=0e75b6&style=flat)
+![My github status](https://github-readme-stats.vercel.app/api?username=richarson7406&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
