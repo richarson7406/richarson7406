@@ -19,19 +19,6 @@ I am a first semester statistics student and I like everything that has to do wi
     - java
 - 📫 Reach out to me at: <a href="richiocampog7@gmail.com">richiocampog7@gmail.com</a>
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 
 <h2>👀 My github Stats</h2>
 
