@@ -1,7 +1,7 @@
 ## El èxito es la suma de pequeños esfuerzos repetidos dia tras dias  👋
 
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+
+<h3 align="center">estudiante de EStadistica🌟.</h3>
 
 <br>
 
