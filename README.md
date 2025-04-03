@@ -5,8 +5,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://tenor.com/34XA.gif"
-    alt="adam-pw" /> 
+< p  align = " right " > < h3 >Visitas de perfil:-</ h3 > <img src="https:// tenor .com/ 34XA.gif "
+    alt="adam-pw" />
   </p>
 
 <br>
