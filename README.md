@@ -17,7 +17,7 @@ I am a first semester statistics student and I like everything that has to do wi
     - HTML
     - python
     - java
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">richiocampog7@gmail.com</a>
+- 📫 Reach out to me at: <a href="richiocampog7@gmail.com">richiocampog7@gmail.com</a>
 
 __Check out my GitHub repository:__
 
