@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a first semester statistics student and I like everything that has to do with programming.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - Java
   - React js
