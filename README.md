@@ -36,6 +36,3 @@ I am a first semester statistics student and I like everything that has to do wi
 
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
-
-Date: 18/11/2021
